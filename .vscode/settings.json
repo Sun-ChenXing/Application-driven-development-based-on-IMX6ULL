@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "compare": "c",
+        "cstdlib": "c",
+        "math.h": "c",
+        "page_manager.h": "c",
+        "stdio.h": "c"
+    }
+}
